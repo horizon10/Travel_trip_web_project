@@ -1,0 +1,19 @@
+﻿@using TravelTripMVCProject.Models.Classes
+@model List<AboutMe>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<div class="content">
+	<div class="wrap">
+		<div class="about"style="text-align:center">
+			<h3>About</h3>
+			@foreach(var x in Model)
+			{
+				<img src=@x.PhotoUrl alt="travelfoto" />
+				<p>@x.Aciklama</p>
+			}
+		</div>
+	</div>
+</div>
