@@ -3,156 +3,192 @@
   "WorkspaceRootPath": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\admin\\yorumgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\yorumgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\contact\\oneriyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\contact\\oneriyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\admin\\yorumlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\yorumlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\default\\partial5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\default\\partial5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\default\\partial5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\default\\partial4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\default\\partial4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\default\\partial4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\default\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\default\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\default\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\default\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\default\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\default\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\default\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\default\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\default\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\web2\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\web2\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\admin\\yorumlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\yorumlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\admin\\onerilistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\onerilistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\aboutme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\aboutme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\admin\\yorumgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\yorumgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\admin\\onerigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\onerigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\oneri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\oneri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\aboutme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\aboutme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\models\\classes\\addressblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\traveltripmvcproject\\models\\classes\\addressblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\models\\classes\\addressblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|c:\\users\\ufukt\\desktop\\traveltripmvcproject\\traveltripmvcproject\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D64255F3-007E-4AE2-BB6C-0AED63BFF958}|TravelTripMVCProject\\TravelTripMVCProject.csproj|solutionrelative:traveltripmvcproject\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,11 +198,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 17,
               "Title": "Partial1.cshtml",
               "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial1.cshtml",
               "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial1.cshtml",
@@ -176,6 +212,58 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-13T11:18:13.761Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T06:11:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:42:04.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YorumYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:44:14.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:01:37.832Z",
               "EditorCaption": ""
             },
             {
@@ -193,228 +281,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GirisYapController.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\GirisYapController.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\GirisYapController.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\GirisYapController.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\GirisYapController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:01:44.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:19:45.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:50:42.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Web.config",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Web.config",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Web.config",
-              "RelativeToolTip": "TravelTripMVCProject\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-13T10:58:19.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "YorumGetir.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T12:39:21.622Z",
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:21:47.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BlogGetir.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "OneriYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Contact\\OneriYap.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Contact\\OneriYap.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Contact\\OneriYap.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Contact\\OneriYap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:17:10.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "YorumListesi.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T12:12:25.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:42:04.11Z",
+              "WhenOpened": "2025-06-13T13:30:29.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwCoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:01:40.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "YeniBlog.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:17:11.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Admin.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Admin.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Admin.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:11:34.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "YorumYap.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Blog\\YorumYap.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:44:14.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:01:37.832Z",
+              "WhenOpened": "2025-06-13T13:29:18.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "BlogDetay.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:42:42.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BlogComment.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:11:46.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:42:56.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Partial5.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:39:12.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "Partial4.cshtml",
               "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial4.cshtml",
               "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial4.cshtml",
@@ -427,59 +333,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Partial3.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
+              "DocumentIndex": 13,
+              "Title": "Partial5.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Partial5.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:33:22.539Z",
+              "WhenOpened": "2025-06-13T11:39:12.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Partial2.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "_TestLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:31:34.305Z",
+              "WhenOpened": "2025-06-13T10:53:45.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:17:52.871Z",
+              "DocumentIndex": 11,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:01:40.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\About.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\About.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\About.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:18:11.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\About\\Index.cshtml",
@@ -492,111 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:02:31.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:16:59.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:19:48.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T11:19:47.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:39:03.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AboutMe.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:10:19.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:02:41.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Contact.cs",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Contact.cs",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Contact.cs",
-              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:11:58.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 8,
               "Title": "Comments.cs",
               "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Comments.cs",
               "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Comments.cs",
@@ -609,20 +398,375 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Contact.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Contact.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Contact.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:11:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Partial3.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Partial3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:33:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Partial2.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Partial2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:31:34.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:17:52.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\About.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Default\\About.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Default\\About.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Default\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:18:11.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:42:56.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlogDetay.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Blog\\BlogDetay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:42:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswFoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:50:42.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "single.html",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\web2\\single.html",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\web2\\single.html",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\web2\\single.html",
+              "RelativeToolTip": "TravelTripMVCProject\\web2\\single.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-13T13:54:45.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "YorumListesi.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\YorumListesi.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T12:12:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OneriListesi.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\OneriListesi.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\OneriListesi.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\OneriListesi.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\OneriListesi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T13:43:14.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "YorumGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\YorumGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T12:39:21.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OneriGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\OneriGetir.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\OneriGetir.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\OneriGetir.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\OneriGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T13:43:45.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:38:56.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Oneri.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Oneri.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Oneri.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Oneri.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\Oneri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:23:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Context.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Context.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Context.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:27:19.244Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 32,
+              "Title": "GirisYapController.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\GirisYapController.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\GirisYapController.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\GirisYapController.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\GirisYapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:01:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BlogGetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\BlogGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:17:10.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Web.config",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Web.config",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Web.config",
+              "RelativeToolTip": "TravelTripMVCProject\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-13T10:58:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "MainPage.cs",
               "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\MainPage.cs",
               "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\MainPage.cs",
               "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\MainPage.cs",
               "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\MainPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:13:30.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:13:30.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\GirisYap\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:19:45.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "YeniBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Admin\\YeniBlog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:17:11.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Admin.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Admin.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Admin.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:11:34.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BlogComment.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\BlogComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:11:46.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:02:31.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:16:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:19:48.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TravelTripMVCProject\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:19:47.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:39:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AboutMe.cs",
+              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
+              "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
+              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
+              "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\AboutMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:10:19.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\Blog.cs",
               "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\Blog.cs",
@@ -630,12 +774,11 @@
               "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\Blog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:11:41.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:11:41.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "AddressBlog.cs",
               "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Models\\Classes\\AddressBlog.cs",
               "RelativeDocumentMoniker": "TravelTripMVCProject\\Models\\Classes\\AddressBlog.cs",
@@ -643,21 +786,7 @@
               "RelativeToolTip": "TravelTripMVCProject\\Models\\Classes\\AddressBlog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:11:27.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_TestLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
-              "RelativeDocumentMoniker": "TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
-              "ToolTip": "C:\\Users\\ufukt\\Desktop\\TravelTripMVCProject\\TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
-              "RelativeToolTip": "TravelTripMVCProject\\Views\\Shared\\_TestLayout.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAYwFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T10:53:45.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:11:27.14Z"
             }
           ]
         }

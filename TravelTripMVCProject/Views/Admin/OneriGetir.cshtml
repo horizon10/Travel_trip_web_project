@@ -1,0 +1,27 @@
+﻿@model TravelTripMVCProject.Models.Classes.Oneri
+@{
+    ViewBag.Title = "OneriGetir";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Öneri Güncelleme Sayfası</h2>
+<br />
+@using (Html.BeginForm("OneriGuncelle", "Admin", FormMethod.Post))
+{
+    @Html.LabelFor(x => x.ID)
+    @Html.TextBoxFor(x => x.ID, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.LabelFor(x => x.AdSoyad)
+    @Html.TextBoxFor(x => x.AdSoyad, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Mail)
+    @Html.TextBoxFor(x => x.Mail, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Konu)
+    @Html.TextBoxFor(x => x.Konu, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.Mesaj)
+    @Html.TextAreaFor(x => x.Mesaj, 5, 1, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Öneri Güncelle</button>
+}

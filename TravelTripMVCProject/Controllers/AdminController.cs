@@ -74,5 +74,36 @@ namespace TravelTripWebProject.Controllers
             c.SaveChanges();
             return RedirectToAction("Index");
         }
+        public ActionResult OneriListesi()
+        {
+            var oneriler = c.Oneris.ToList();
+            return View(oneriler);
+        }
+
+        public ActionResult OneriSil(int id)
+        {
+            var oneri = c.Oneris.Find(id);
+            c.Oneris.Remove(oneri);
+            c.SaveChanges();
+            return RedirectToAction("OneriListesi");
+        }
+
+        public ActionResult OneriGetir(int id)
+        {
+            var oneri = c.Oneris.Find(id);
+            return View("OneriGetir", oneri);
+        }
+
+        public ActionResult OneriGuncelle(Oneri o)
+        {
+            var onr = c.Oneris.Find(o.ID);
+            onr.AdSoyad = o.AdSoyad;
+            onr.Mail = o.Mail;
+            onr.Konu = o.Konu;
+            onr.Mesaj = o.Mesaj;
+            c.SaveChanges();
+            return RedirectToAction("OneriListesi");
+        }
+
     }
 }

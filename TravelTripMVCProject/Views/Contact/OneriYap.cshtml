@@ -1,0 +1,40 @@
+﻿@model TravelTripMVCProject.Models.Classes.Oneri
+
+
+
+<div class="wrap">
+    <h2 style="text-align: center; margin: 30px 0;">Bize Ulaşın</h2>
+
+    <div style="width: 60%; margin: auto; background: #f9f9f9; padding: 30px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        @using (Html.BeginForm("OneriYap", "Contact", FormMethod.Post))
+        {
+            <div style="margin-bottom: 20px;">
+                <label for="AdSoyad" style="display: block; font-weight: bold;">Ad Soyad</label>
+                @Html.TextBoxFor(x => x.AdSoyad, new { @class = "form-control", @id = "AdSoyad", placeholder = "Adınızı ve soyadınızı girin", style = "width:100%; padding:10px; border:1px solid #ccc; border-radius:5px;" })
+            </div>
+
+            <div style="margin-bottom: 20px;">
+                <label for="Mail" style="display: block; font-weight: bold;">Mail</label>
+                @Html.TextBoxFor(x => x.Mail, new { @class = "form-control", @id = "Mail", placeholder = "E-posta adresinizi girin", style = "width:100%; padding:10px; border:1px solid #ccc; border-radius:5px;" })
+            </div>
+
+            <div style="margin-bottom: 20px;">
+                <label for="Konu" style="display: block; font-weight: bold;">Konu</label>
+                @Html.TextBoxFor(x => x.Konu, new { @class = "form-control", @id = "Konu", placeholder = "Konu başlığını girin", style = "width:100%; padding:10px; border:1px solid #ccc; border-radius:5px;" })
+            </div>
+
+            <div style="margin-bottom: 20px;">
+                <label for="Mesaj" style="display: block; font-weight: bold;">Mesaj</label>
+                @Html.TextAreaFor(x => x.Mesaj, new { @class = "form-control", rows = 5, @id = "Mesaj", placeholder = "Mesajınızı buraya yazın", style = "width:100%; padding:10px; border:1px solid #ccc; border-radius:5px;" })
+            </div>
+
+            <div style="text-align: center;">
+                <button type="submit" style="background-color: #007BFF; color: white; padding: 12px 30px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Gönder</button>
+            </div>
+        }
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+</div>

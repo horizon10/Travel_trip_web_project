@@ -10,6 +10,6 @@ namespace TravelTripMVCProject.Models.Classes
         public DbSet<AboutMe> AboutMes { get; set; }
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Comments> Comments { get; set; }
-
+        public DbSet<Oneri> Oneris { get; set; }
     }
 }
