@@ -19,8 +19,7 @@
 
 ## 📸 Ekran Görüntüleri
 
-> Aşağıya proje ekran görüntüleri ekleyebilirsiniz  
-> (`/images/` klasörüne ekran görüntüsü koyup markdown ile dahil edebilirsin)
+![Ana Sayfa](Ekran görüntüsü 2025-06-18 163717.png)
 
 ## ⚙️ Kurulum
 
