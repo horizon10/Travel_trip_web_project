@@ -18,7 +18,10 @@
 - HTML5 / CSS3 / Bootstrap
 
 ## 📸 Ekran Görüntüleri
-![image]([https://github.com/user-attachments/assets/1e0701dd-5cb6-475e-994a-099e04e1f579](https://github.com/horizon10/Travel_trip_web_project/blob/master/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20163717.png))
+![Ekran görüntüsü 2025-06-18 163901](https://github.com/user-attachments/assets/2eeabd2d-bc3a-4e4a-becd-525eef43c325)
+![Ekran görüntüsü 2025-06-18 163717](https://github.com/user-attachments/assets/30fedafa-d579-4680-ab79-bb8115c85109)
+![Ekran görüntüsü 2025-06-18 163842](https://github.com/user-attachments/assets/ef4d1a80-3256-4a66-9668-bee400aa005b)
+
 
 ## ⚙️ Kurulum
 
