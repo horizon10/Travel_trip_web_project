@@ -19,7 +19,7 @@
 
 ## 📸 Ekran Görüntüleri
 
-![Ana Sayfa](Ekran görüntüsü 2025-06-18 163717.png)
+![Ana Sayfa](2025-06-18 163717.png)
 
 ## ⚙️ Kurulum
 
